@@ -1,4 +1,4 @@
-# INSTAGRAM UNFOLLOWERS BOT
+# INSTAGRAM UNFOLLOWERS AUTOMATION BOT
   This is a selenium bot that detects people you follow but not following you back on Instagram.
 
   Only compatible with Windows.
